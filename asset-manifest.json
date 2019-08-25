@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "Recipes-blog-react/static/css/main.d2fdf941.chunk.css",
-    "main.js": "Recipes-blog-react/static/js/main.9938e88d.chunk.js",
-    "main.js.map": "Recipes-blog-react/static/js/main.9938e88d.chunk.js.map",
+    "main.js": "Recipes-blog-react/static/js/main.0f01af9b.chunk.js",
+    "main.js.map": "Recipes-blog-react/static/js/main.0f01af9b.chunk.js.map",
     "runtime~main.js": "Recipes-blog-react/static/js/runtime~main.098f7e45.js",
     "runtime~main.js.map": "Recipes-blog-react/static/js/runtime~main.098f7e45.js.map",
     "static/js/2.d664a718.chunk.js": "Recipes-blog-react/static/js/2.d664a718.chunk.js",
     "static/js/2.d664a718.chunk.js.map": "Recipes-blog-react/static/js/2.d664a718.chunk.js.map",
     "index.html": "Recipes-blog-react/index.html",
-    "precache-manifest.0ffb09daf2df962e104f96144fc85c51.js": "Recipes-blog-react/precache-manifest.0ffb09daf2df962e104f96144fc85c51.js",
+    "precache-manifest.89d4b16b8614efab72e0ccf671968d41.js": "Recipes-blog-react/precache-manifest.89d4b16b8614efab72e0ccf671968d41.js",
     "service-worker.js": "Recipes-blog-react/service-worker.js",
     "static/css/main.d2fdf941.chunk.css.map": "Recipes-blog-react/static/css/main.d2fdf941.chunk.css.map"
   }
