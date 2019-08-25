@@ -1,0 +1,16 @@
+$light-yellow: #f7f5ab;
+
+.item-description {
+  list-style-type: none;
+  cursor: pointer;
+  text-align: center;
+
+  .foodImage img {
+    max-width: 400px;
+    max-height: 400px;
+  }
+
+  h4 {
+    color: black;
+  }
+}
