@@ -10,7 +10,7 @@ export default function Header() {
       <div className="uk-navbar-left">
         <ul className="uk-navbar-nav">
           <li className="uk-active">
-            <Link to="/">Home</Link>
+            <Link to="/Recipes-blog-react">Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>

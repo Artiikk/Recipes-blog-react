@@ -11,10 +11,10 @@ export default function App() {
     <main role="main" className="container">
       <Header />
       <Switch>
-        <Route path="/" component={MainPage} exact />
+        <Route path="/Recipes-blog-react" component={MainPage} exact />
         <Route path="/about" component={AboutPage} exact />
         <Route
-          path="/:id"
+          path="/Recipes-blog-react/:id"
           render={({ match }) => {
             const { id } = match.params;
             return <ItemDetailsPage itemId={id} />;

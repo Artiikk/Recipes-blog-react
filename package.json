@@ -2,6 +2,7 @@
   "name": "react-blog",
   "version": "0.1.0",
   "private": true,
+  "homepage": "Recipes-blog-react",
   "dependencies": {
     "@babel/runtime": "^7.5.5",
     "gh-pages": "^2.1.1",
